@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui, sans-serif;
+  font-size: 16px;
+  background: #fff;
+  color: #222;
+  padding: 1rem; /* or 16px, or whatever you prefer */
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
